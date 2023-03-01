@@ -1,0 +1,9 @@
+Makanan ter fav
+1. Batagor Bandung
+2. Bakso bakar
+3. Mie Ayam
+4. Mie bakso
+5. Ayam Geprek
+6. Ayam Penyet
+7. Pecel
+8. Mie Aceh
